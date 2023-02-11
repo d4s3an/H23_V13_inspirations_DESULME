@@ -1,6 +1,8 @@
 # Exposition: [ELEKTRA : 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)](https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2022-elektra-6e-biennale)
 <img width="500" alt="Capture d’écran, le 2023-02-09 à 15 06 59" src="https://user-images.githubusercontent.com/112108001/217926159-be81b34d-cd10-45b9-92c5-2d1f97458a1c.png">
 
+# Lieu de mise en exposition
+(Je n'ai malheureusement pas put prendre de photo à ce moment là)
 # Type d'exposition
 Permanente et intérieur
 
