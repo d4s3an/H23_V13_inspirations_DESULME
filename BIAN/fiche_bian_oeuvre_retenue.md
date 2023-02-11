@@ -47,6 +47,9 @@ L'oeuvre présente un écran accroché de haut grâce à des fils et est connect
 <img width="300" alt="Capture d’écran, le 2023-02-09 à 15 06 59" src="https://github.com/d4s3an/H23_V13_inspirations_DESULME/blob/main/BIAN/medias/ecran_accroche.jpg?raw=true"> <img width="300" alt="Capture d’écran, le 2023-02-09 à 15 06 59" src="https://github.com/d4s3an/H23_V13_inspirations_DESULME/blob/main/BIAN/medias/ecrans_sol.jpg?raw=true">
 
 # Expérience vécue
+Je n'ai malheureusement pas put prendre de vidéo de cette oeuvre, mais je vous présente un enregistrement d'une oeuvre inoubliable. 
+
+https://www.youtube.com/shorts/rUAyHI6E20I
 
 # ❤️ Ce qui vous a plu, vous a donné des idées
 J'ai vraiment aimer tout l'exposition au complet, ce qui m'a le plus attirer est que toutes les oeuvres étaient créés a partir de technologie et même presque moderne je dirais. Alors j'ai choisi cette oeuvre pour la simple raison que j'ai aimer comment il sont représenter le monde d'aujourd'hui avec les technologies.
