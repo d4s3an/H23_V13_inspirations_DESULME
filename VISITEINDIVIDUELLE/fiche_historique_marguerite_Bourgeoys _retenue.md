@@ -1,5 +1,5 @@
-# Exposition: [Festival des arts visuels Concordia - Pierre-François Ouellette Art Contemporain)](https://www.pfoac.com/exhibitions/239-there-is-a-space-for-me-and-you/overview/)
-<img width="300" height="300" src="https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/ws-pfoac/usr/images/exhibitions/main_image_override/239/fa801545-7fdf-4034-a9a8-1b72d6f77c71.jpg">
+# Exposition: [Projections dans l'exposition permanente (témoignages et archives)](https://margueritebourgeoys.org/)
+<img width="500" height="300" src="https://itineraires.musees.qc.ca/var/storage/images/musees/guide/site-historique-marguerite-bourgeoys/carrousel/site-historique-marguerite-bourgeoys-04/447722-1-fre-CA/site-historique-marguerite-bourgeoys-04.jpg">
 
 # Lieu de mise en exposition
 
