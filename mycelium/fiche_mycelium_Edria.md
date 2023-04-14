@@ -2,7 +2,10 @@
 <img width="400" height="300" src="https://tim-montmorency.com/2023/projets/EDRIA/docs/web/medias/banniere_v2.png">
 
 # Lieu de mise en exposition
-Collège Montmorency photos
+Collège Montmorency 
+
+<img width="400" height="300" src="https://www.cmontmorency.qc.ca/wp-content/uploads/images/College-Montmorency-drone.jpg">
+
 # Type d'exposition
 Temporaire et extérieure
 
