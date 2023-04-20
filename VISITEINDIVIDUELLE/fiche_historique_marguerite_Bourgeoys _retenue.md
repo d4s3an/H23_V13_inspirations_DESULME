@@ -19,12 +19,12 @@ Marguerite-Bourgeoys
 
 
 # Description de l'exposition
-
+À travers les réalisations de Marguerite Bourgeoys, une femme de courage et de compassion qui a vécu au 17e siècle, vous remonterez le temps et vous vous laisserez emporter dans un autre monde : celui de nos ancêtres. 
 
 
 
 # Type d'installation
-
+immersive
 
 
 
