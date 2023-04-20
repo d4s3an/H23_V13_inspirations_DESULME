@@ -4,20 +4,21 @@
 # Lieu de mise en exposition
 
 # Type d'exposition
-
+Permanente et intérieure
 
 # Date de votre visite
+Dimanche 16 Avril 2023
+# Titre de l'exposition
+Site historique Marguerite-Bourgeoys 
 
-# Titre de l'oeuvre
 
-
-# Nom de l'artiste
-
+# Nom du personnage principale
+Marguerite-Bourgeoys 
 
 # Année de réalisation
 
 
-# Description de l'oeuvre
+# Description de l'exposition
 
 
 
@@ -32,7 +33,7 @@
 
 
 
-# Composantes et technique
+# Composantes et techniques
 
 
 # Éléments nécessaires à la mise en exposition
