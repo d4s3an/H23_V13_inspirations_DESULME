@@ -9,8 +9,9 @@ Permanente et intérieure
 # Date de votre visite
 Dimanche 16 Avril 2023
 # Titre de l'exposition
-Site historique Marguerite-Bourgeoys 
+Site historique Marguerite-Bourgeoys
 
+<img width="500" height="300" src="https://user-images.githubusercontent.com/112108001/233442829-a06e364c-0f03-429e-b018-db53fef57435.jpg">
 
 # Nom du personnage principale
 Marguerite-Bourgeoys 
