@@ -3,6 +3,10 @@
 
 # Lieu de mise en exposition
 
+Juste à coté du Vieu port de Montréal!
+
+<img width="300" height="200" src="https://user-images.githubusercontent.com/112108001/233748711-e43b3ee2-ddad-4af7-bbf4-43c183511135.jpg">
+
 # Type d'exposition
 Permanente et intérieure
 
@@ -10,6 +14,8 @@ Permanente et intérieure
 Dimanche 16 Avril 2023
 # Titre de l'exposition
 Site historique Marguerite-Bourgeoys
+
+<img width="300" height="200" src="https://user-images.githubusercontent.com/112108001/233748265-1dc57ab5-00a6-419a-ba3e-d77ad7025816.jpg">
 
 
 # Nom du personnage principale
@@ -37,15 +43,17 @@ immersive
 Plusieurs stands qui présentes les outils et objets utilisés dans l'histoire de Marguerite.
 
 # Éléments nécessaires à la mise en exposition
-
+Il n'y avaient pas vraiment d'éléments qui était nécessaires, ce n'était pas des oeuvres mais des objets à admirer.
 
 # Expérience vécue
 
+https://youtu.be/T79Lx8_DWMs
 
 # ❤️ Ce qui vous a plu, vous a donné des idées
 
+Ce qui m'a le plus intéressé ce sont tous les anciens matériaux qu'utilisait Marguerite à son époque, c'est fou comment c'est différent de ce qu'on as aujourd'hui. J'était déja au courant, mais c'est important de savoir comment ont en ai arriver la.
 
 # 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-
+Je n'ai rien vu de désagréable et rien n'avaient de liens avec mes future propres créations. Juste une chose à retenir concernant Marguerite ayant marqué l'histoire.
 
