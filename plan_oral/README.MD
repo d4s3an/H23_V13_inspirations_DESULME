@@ -2,4 +2,4 @@
 
 Intro
 
-Je vais vous présenter ma visite individuelle
+Pour ma présentation, je vais vous parler de ma visite des sites historiques de Marguerite Bourgeoys. Si vous voulez en savoir sur plus sur le passer 
