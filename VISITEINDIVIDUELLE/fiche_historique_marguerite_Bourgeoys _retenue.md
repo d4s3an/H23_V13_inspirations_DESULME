@@ -27,8 +27,8 @@ Marguerite-Bourgeoys
 # Description de l'exposition
 À travers les réalisations de Marguerite Bourgeoys, une femme de courage et de compassion qui a vécu au 17e siècle, vous remonterez le temps et vous vous laisserez emporter dans un autre monde : celui de nos ancêtres. 
 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/233465920-3d54a6e0-132f-4a6d-b23d-b6d8f6ac6288.jpg"> <img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/233466448-3e4ce9e6-9d18-4da5-aa84-6b1e9126f64f.jpg"> <img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/233466476-d4e48fb9-98ba-4dc0-9743-be52914cb7f6.jpg"> <img width="300" height="300" src="![image](https://user-images.githubusercontent.com/112108001/235200125-58971043-e3e6-4d88-ba4f-f65151a28d99.png)
-">
+<img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/233465920-3d54a6e0-132f-4a6d-b23d-b6d8f6ac6288.jpg"> <img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/233466448-3e4ce9e6-9d18-4da5-aa84-6b1e9126f64f.jpg"> <img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/233466476-d4e48fb9-98ba-4dc0-9743-be52914cb7f6.jpg"> <img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/235200681-f9fd1edf-bb22-4fb4-beba-8ce4c3039145.PNG">
+
 
 
 # Type d'installation
