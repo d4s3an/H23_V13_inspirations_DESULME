@@ -42,6 +42,8 @@ immersive
 
 # Composantes et techniques
 Plusieurs stands qui présentes les outils et objets utilisés dans l'histoire de Marguerite.
+<img width="300" height="300" src="https://user-images.githubusercontent.com/112108001/235200681-f9fd1edf-bb22-4fb4-beba-8ce4c3039145.PNG">
+
 
 # Éléments nécessaires à la mise en exposition
 Il n'y avaient pas vraiment d'éléments qui était nécessaires, ce n'était pas des oeuvres mais des objets à admirer.
