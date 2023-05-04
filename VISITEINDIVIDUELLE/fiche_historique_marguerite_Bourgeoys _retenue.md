@@ -54,6 +54,8 @@ Plusieurs stands qui présentes les outils et objets utilisés dans l'histoire d
 
 # Expérience vécue
 
+Vous suivez les flèches coller sur le sol et elles vous dirige tout au au long de l'exposition. Vous aurez accès à trois parties, partie historiques, la belle vue tout en haut et un sous-sol qui en dis daavantage sur leurs exploits. Le batiment est très vieux donc le sol est bruiyant et les escaliers de même, donc il faut-y aller en douceur. Écouter aussi une projections de personnes ayant vécu à l'époque de Marguerite Bourgeoys. 
+
 https://youtu.be/T79Lx8_DWMs
 
 # ❤️ Ce qui vous a plu, vous a donné des idées
