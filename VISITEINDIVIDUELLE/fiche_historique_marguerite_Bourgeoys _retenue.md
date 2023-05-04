@@ -51,6 +51,7 @@ Plusieurs stands qui présentes les outils et objets utilisés dans l'histoire d
 - projecteurs
 - bancs
 - lumières
+- téléphone
 
 # Expérience vécue
 
