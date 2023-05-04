@@ -47,7 +47,10 @@ Plusieurs stands qui présentes les outils et objets utilisés dans l'histoire d
 
 
 # Éléments nécessaires à la mise en exposition
-Il n'y avaient pas vraiment d'éléments qui était nécessaires, ce n'était pas des oeuvres mais des objets à admirer.
+- Haut-parleurs
+- projecteurs
+- bancs
+- lumières
 
 # Expérience vécue
 
